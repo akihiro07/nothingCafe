@@ -92,6 +92,8 @@
   background-repeat: no-repeat;
 }
 .menu {
+    border-bottom: solid 1px #fff;
+    padding: 10vh;
   .menu--title {
     font-size: 2.4rem;
     margin-top: 7vh;
@@ -124,7 +126,7 @@
       .menu--lists {
       list-style: none;
       line-height: 1.6;
-    }
+      }
     }
   }
 }

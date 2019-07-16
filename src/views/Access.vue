@@ -80,6 +80,8 @@ export default {
     background-repeat: no-repeat;
   }
   .access {
+    border-bottom: solid 1px #fff;
+    padding: 10vh;
     .access--title {
       font-size: 2.4rem;
       margin-top: 7vh;
